@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#FFFFFF"
+backgroundColor = "#000000"
+secondaryBackgroundColor = "#333333"
+textColor = "#FFFFFF"
+font = "sans serif"
+
+[layout.sidebar]
+collapsed = true
